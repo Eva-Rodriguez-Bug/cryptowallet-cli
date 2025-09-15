@@ -116,7 +116,7 @@
   ],
   "dependencies": {
     "@binance-chain/javascript-sdk": "^4.2.2",
-    "@emurgo/cardano-serialization-lib-nodejs": "^14.1.1",
+    "@emurgo/cardano-serialization-lib-nodejs": "^15.0.1",
     "@harmony-js/account": "^0.1.58",
     "@mysten/sui": "^1.18.0",
     "@solana/web3.js": "^1.98.0",
