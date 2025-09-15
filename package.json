@@ -123,7 +123,7 @@
     "@ton/core": "^0.60.0",
     "@ton/crypto": "^3.3.0",
     "@ton/ton": "^15.1.0",
-    "@yerofey/dogecoin-bip84": "^0.0.5",
+    "@yerofey/dogecoin-bip84": "^0.0.6",
     "@yerofey/litecoin-bip84": "^0.0.5",
     "bigint-buffer": "^1.1.5",
     "bip39": "^3.1.0",
